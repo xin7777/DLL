@@ -1,0 +1,18 @@
+diff --git a/issue1.txt b/issue1.txt
+index ffe07ea..921d0c9 100644
+--- a/issue1.txt
++++ b/issue1.txt
+@@ -3,6 +3,7 @@ lgx
+ modify 1
+ 
+ modify 2
++test
+ 
+ modify 3
+ 
+@@ -10,3 +11,5 @@ modify 45
+ 
+ 
+ modify 52
++
++modify 62
